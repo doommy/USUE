@@ -1,7 +1,7 @@
 #!/usr/bin/python3.6
 # My first program on Python!369
 
-
+   
 import time
 import socket
 import struct
